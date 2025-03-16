@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer with a focus on MERN stack development. I 
 
 - 🌱 I’m currently learning advanced React and Node.js
 - 💬 Ask me about MERN stack, JavaScript, React, Node.js, Express, MongoDB
-- 📫 How to reach me: [asma@example.com](mailto:asma@example.com)
+- 📫 How to reach me: asmasiddique44097@gmail.com
 - ⚡ Fun fact: I enjoy solving puzzles and playing chess
 
 ## 🛠️ Technologies & Tools
