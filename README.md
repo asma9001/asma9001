@@ -1,4 +1,4 @@
-# Hi, I'm Asma! 👋
+# Hi, I'm Asma Siddique! 👋
 
 I'm a passionate Full Stack Developer with a focus on MERN stack development. I love building scalable web applications and exploring new technologies.
 
