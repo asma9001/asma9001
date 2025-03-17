@@ -1,15 +1,22 @@
 # Hi, I'm Asma Siddique! 👋
 
-I'm a passionate Full Stack Developer with a focus on MERN stack development. I love building scalable web applications and exploring new technologies.
+MERN Stack Developer (MongoDB | Express.js | React.js | Node.js)
+
+Passionate Full Stack Developer with expertise in building scalable and responsive web applications using the MERN stack. Skilled in front-end and back-end development, API integration, and performance optimization.
 
 ## 🚀 About Me
 
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<!--   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /> -->
+<!--   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /> -->
+
+- 🔭 I’m currently working on MERN Stack projects.
 - 🌱 I’m currently learning advanced React and Node.js
 - 💬 Ask me about MERN stack, JavaScript, React, Node.js, Express, MongoDB
 - 📫 How to reach me: asmasiddique44097@gmail.com
-- ⚡ Fun fact: I enjoy solving puzzles and playing chess
+- ⚡ Fun fact: I love coding and exploring new technologies while enjoying a good cup of coffee.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -20,29 +27,16 @@ I'm a passionate Full Stack Developer with a focus on MERN stack development. I 
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind%20css)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+
+
+
 
 ## 📈 GitHub Stats
 
 ![Asma's GitHub stats](https://github-readme-stats.vercel.app/api?username=asma9001&show_icons=true&theme=radical)
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Portfolio](https://yourportfolio.com)
-
-## 📂 Projects
-
-### Project 1: [Project Name](https://github.com/yourusername/project)
-**Description:** Brief description of the project.  
-**Tech Stack:** JavaScript, React, Node.js, Express, MongoDB
-
-### Project 2: [Project Name](https://github.com/yourusername/project)
-**Description:** Brief description of the project.  
-**Tech Stack:** JavaScript, React, Node.js, Express, MongoDB
-
-Feel free to check out my repositories and leave a star if you find something interesting!
-
----
 
 ⭐️ From [Asma](https://github.com/asma9001)
